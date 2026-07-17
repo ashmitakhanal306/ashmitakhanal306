@@ -165,7 +165,3 @@ Passionate about solving problems, building impactful projects, and continuously
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ashmitakhanal306&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmitakhanal306&theme=tokyo-night&hide_border=true" />
-</p>
