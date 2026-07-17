@@ -146,17 +146,19 @@ Passionate about solving problems, building impactful projects, and continuously
 - 🎨 UI/UX Design
 - 🌐 Full Stack Web Development
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
 
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmitakhanal306&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
+
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Recap AI** | AI-powered note-taking and knowledge management system. | React, Node.js, MongoDB, Gemini API |
+| **Portfolio Website** | Personal portfolio showcasing projects and skills. | React, Tailwind CSS |
+| **Movie Recommendation System** | Recommends movies based on user preferences. | Python, Pandas, Scikit-learn |
+| **Weather App** | Real-time weather application using REST APIs. | HTML, CSS, JavaScript |
