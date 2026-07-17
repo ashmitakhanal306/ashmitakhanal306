@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ashmita Khanal
+# Hi, I'm Ashmita Khanal
 
 ### BCA Student | Aspiring Software Developer & UI/UX Designer
 
