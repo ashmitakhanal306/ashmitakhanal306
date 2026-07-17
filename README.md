@@ -158,7 +158,7 @@ Passionate about solving problems, building impactful projects, and continuously
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Recap AI** | AI-powered note-taking and knowledge management system. | React, Node.js, MongoDB, Gemini API |
-| **Portfolio Website** | Personal portfolio showcasing projects and skills. | React, Tailwind CSS |
-| **Movie Recommendation System** | Recommends movies based on user preferences. | Python, Pandas, Scikit-learn |
-| **Weather App** | Real-time weather application using REST APIs. | HTML, CSS, JavaScript |
+| **Stillness** & **EcoLearn** | AI-powered applications. | React, Antigravity, Claude, Gemini API |
+| **Portfolio Website** | Personal portfolio showcasing projects and skills. | Antigravity, React, Tailwind CSS, HTML, JavaScript |
+| **Motion Detection** &  **Face Detection**  | detects motion and face. | Python, OpenCV, VS Code |
+| **QR Code Generator** | QR generator application using REST APIs. | HTML, CSS, JavaScript, API, VS Code |
