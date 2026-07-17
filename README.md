@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ashmita+Khanal;BCA+Student;Aspiring+Software+Developer;UI%2FUX+Designer;AI+%26+Data+Analytics+Enthusiast" />
+</p>
+
 # Hi, I'm Ashmita Khanal
 
 ### BCA Student | Aspiring Software Developer & UI/UX Designer
