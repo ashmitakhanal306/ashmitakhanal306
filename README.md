@@ -30,6 +30,7 @@ Passionate about solving problems, building impactful projects, and continuously
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
+
 <a href="https://linkedin.com/in/ashmita-khanal-7460b4331" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
@@ -37,6 +38,7 @@ Passionate about solving problems, building impactful projects, and continuously
 <a href="https://www.instagram.com/ashmitakhanal_/" target="_blank">
 <img src="https://cdn.simpleicons.org/instagram" height="40"/>
 </a>
+
 
 <a href="mailto:ashmitakhanal306@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail" height="40"/>
@@ -143,3 +145,21 @@ Passionate about solving problems, building impactful projects, and continuously
 - 🤖 Artificial Intelligence & Vibe Coding
 - 🎨 UI/UX Design
 - 🌐 Full Stack Web Development
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashmitakhanal306&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmitakhanal306
+    &theme=tokyo-night&hide_border=true" />
+</p>
