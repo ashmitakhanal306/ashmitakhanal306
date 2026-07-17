@@ -155,13 +155,8 @@ Passionate about solving problems, building impactful projects, and continuously
 
 
 
-## 📊 GitHub Analytics
+## 📈 Contribution Graph
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashmitakhanal306&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitakhanal306&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashmitakhanal306&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashmitakhanal306&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
