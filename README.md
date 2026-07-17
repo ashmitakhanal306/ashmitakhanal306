@@ -42,3 +42,104 @@ Passionate about solving problems, building impactful projects, and continuously
 <img src="https://cdn.simpleicons.org/gmail" height="40"/>
 </a>
 </p>
+
+## 💻 Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,php" />
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+</td>
+
+<td valign="top">
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 📊 Data Analysis & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+</td>
+
+<td valign="top">
+
+### 🎨 Design & Creative Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/InShot-FF2D55?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Edits-000000?style=for-the-badge"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python_IDLE-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+## 🎯 Areas of Interest
+
+- 💻 Software Development
+- 📊 Data Analysis
+- 🤖 Artificial Intelligence & Vibe Coding
+- 🎨 UI/UX Design
+- 🌐 Full Stack Web Development
