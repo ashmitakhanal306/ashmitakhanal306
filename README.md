@@ -162,3 +162,4 @@ Passionate about solving problems, building impactful projects, and continuously
 | **Portfolio Website** | Personal portfolio showcasing projects and skills. | Antigravity, React, Tailwind CSS, HTML, JavaScript |
 | **Motion Detection** &  **Face Detection**  | detects motion and face. | Python, OpenCV, VS Code |
 | **QR Code Generator** | QR generator application using REST APIs. | HTML, CSS, JavaScript, API, VS Code |
+| **Road Accident Analysis** | Representayion of road accidents happening in Delhi in 2024. | Jupiter Notebook, Pandas, Numpy, Matplotlib, Scikit-learn, TensorFlow |
